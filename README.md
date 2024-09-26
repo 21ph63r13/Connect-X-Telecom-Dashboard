@@ -5,7 +5,7 @@ Analyze and visualize customer churn data for a telecom company and explore cust
 
 Identify factors that contribute to customer churn.  
 
-Insights
+Insights:
 
 About 26% customers churned
 
@@ -16,7 +16,7 @@ As the tenure in months increases, the total charges also increases
 The customers who have churned are older, with an average age of 50
 
 
-Recommendation
+Recommendation:
 
 Develop new products or services for older customers
 
