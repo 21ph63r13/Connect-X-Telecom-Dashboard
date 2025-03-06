@@ -1,4 +1,6 @@
 # Connect-X-Telecom-Dashboard
+![telecom dashboard](https://github.com/user-attachments/assets/f043e629-81fd-45ed-9876-45cdd32691eb)
+
 
 Problem Statement
 Analyze and visualize customer churn data for a telecom company and explore customer demographics, offers, contract types, payment methods and service usage
